@@ -4,4 +4,4 @@ git add <filename> --> adding filr to git
 git commit --> commit file to local
 git remote add origin <repo url> --> Checkout/ add new repo
 git push -u origin <branchname> --> push branchname
-git checkout -b <branchname> This will create and switch you to new branch
+git checkout -b <branchname> This will create and switch you to new branch.
